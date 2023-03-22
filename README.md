@@ -9,3 +9,6 @@ Questa formula richiede:
 * Media delle entrate
 * Media dei visitatori
 * Numero di valori messi in media
+
+## Formula e spiegazione
+![Formula](formula.jpeg)
