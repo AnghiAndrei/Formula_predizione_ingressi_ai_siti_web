@@ -11,4 +11,4 @@ Questa formula richiede:
 * Numero di valori messi in media
 
 ## Formula e spiegazione
-![Formula](formula.jpeg)
+![Formula](formula.webp)
