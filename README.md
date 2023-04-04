@@ -10,5 +10,12 @@ Questa formula richiede:
 * Media dei visitatori
 * Numero di valori messi in media
 
-## Formula e spiegazione
+## Formula
 ![Formula](formula.webp)
+
+## Spiegazione
+a: munero di valori presi in media
+e: numero di utenti collegati, nei vari giorni
+x: media delle entrate totali
+y: media dei singoli visitatori
+α (alfa): valore scelto da voi, ma deve rispettare la condizione (α<=10)
